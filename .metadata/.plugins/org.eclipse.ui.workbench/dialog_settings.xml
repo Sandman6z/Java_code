@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="975"/>
+		<item key="DIALOG_Y_ORIGIN" value="72"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="dialogHeight" value="756"/>
+		<item key="dialogWidth" value="1440"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ShowViewDialog">
+		<item key="DIALOG_WIDTH" value="424"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
+		<item key="ShowViewDialog.STORE_SELECTED_VIEW_ID" value="org.eclipse.ui.navigator.ProjectExplorer"/>
+		<item key="DIALOG_HEIGHT" value="479"/>
+		<item key="DIALOG_X_ORIGIN" value="757"/>
+		<item key="DIALOG_Y_ORIGIN" value="211"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui"/>
+			<item value="org.eclipse.recommenders.rcp.views.root"/>
+			<item value="org.eclipse.jdt.ui.java.browsing"/>
+		</list>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="-136"/>
+		<item key="DIALOG_Y_ORIGIN" value="-283"/>
+		<item key="DIALOG_WIDTH" value="830"/>
+		<item key="DIALOG_HEIGHT" value="987"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
+	</section>
+</section>

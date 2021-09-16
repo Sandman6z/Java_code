@@ -1,0 +1,29 @@
+package hello;
+
+import java.util.Scanner;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		int [] data = {15, 5, 35, 65, 54, 5, 3, 6, 20, 16};
+		int x = in.nextInt();
+		int loc = -1;
+		for(int i=0; i<data.length; i++)
+		{
+			if(x == data[i])
+			{
+				loc = i;
+				break;
+			}
+		}
+		if( loc != -1)
+		{
+			System.out.println(x+" is located "+(loc+1));
+		}
+		else
+		{
+			System.out.println(N/C);
+		}
+	}
+}

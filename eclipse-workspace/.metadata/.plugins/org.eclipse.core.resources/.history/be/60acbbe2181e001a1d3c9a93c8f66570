@@ -1,0 +1,35 @@
+package hello;
+
+import java.util.Scanner;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		int [] data = {15, 5, 35, 65, 54, 5, 3, 6, 20, 16};
+		int x = in.nextInt();
+		int [] loc = new int[5];
+		int a = 0;
+		System.out.println(loc);
+		for(int i=0; i<data.length; i++)
+		{
+			if(x == data[i])
+			{
+				loc[a] = i;
+				a++;
+			}
+		}
+		if( loc[0] != 0)
+		{
+			for(int i=0; i<loc.length; i++)
+			{
+				System.out.println(x+" is located "+loc);
+			}
+
+		}
+		else
+		{
+			System.out.println("N/C");
+		}
+	}
+}
